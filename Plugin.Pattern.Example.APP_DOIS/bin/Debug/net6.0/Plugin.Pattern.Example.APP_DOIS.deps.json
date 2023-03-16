@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Plugin.Pattern.Example.APP_DOIS/1.0.0": {
+        "dependencies": {
+          "Plugin.Pattern.Example": "1.0.0"
+        },
+        "runtime": {
+          "Plugin.Pattern.Example.APP_DOIS.dll": {}
+        }
+      },
+      "Plugin.Pattern.Example/1.0.0": {
+        "runtime": {
+          "Plugin.Pattern.Example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Plugin.Pattern.Example.APP_DOIS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Plugin.Pattern.Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

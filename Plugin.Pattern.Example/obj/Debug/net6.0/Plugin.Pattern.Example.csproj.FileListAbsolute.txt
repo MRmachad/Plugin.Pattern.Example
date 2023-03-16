@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Documents\Dev\ByMySelf\Arquitetura\PluginPattern\Exemplo\Plugin.Pattern.Example\Plugin.Pattern.Example\bin\Debug\net6.0\Plugin.Pattern.Example.exe
+C:\Users\Leonardo\Documents\Dev\ByMySelf\Arquitetura\PluginPattern\Exemplo\Plugin.Pattern.Example\Plugin.Pattern.Example\bin\Debug\net6.0\Plugin.Pattern.Example.deps.json
+C:\Users\Leonardo\Documents\Dev\ByMySelf\Arquitetura\PluginPattern\Exemplo\Plugin.Pattern.Example\Plugin.Pattern.Example\bin\Debug\net6.0\Plugin.Pattern.Example.runtimeconfig.json
+C:\Users\Leonardo\Documents\Dev\ByMySelf\Arquitetura\PluginPattern\Exemplo\Plugin.Pattern.Example\Plugin.Pattern.Example\bin\Debug\net6.0\Plugin.Pattern.Example.dll
+C:\Users\Leonardo\Documents\Dev\ByMySelf\Arquitetura\PluginPattern\Exemplo\Plugin.Pattern.Example\Plugin.Pattern.Example\bin\Debug\net6.0\Plugin.Pattern.Example.pdb
+C:\Users\Leonardo\Documents\Dev\ByMySelf\Arquitetura\PluginPattern\Exemplo\Plugin.Pattern.Example\Plugin.Pattern.Example\obj\Debug\net6.0\Plugin.Pattern.Example.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Documents\Dev\ByMySelf\Arquitetura\PluginPattern\Exemplo\Plugin.Pattern.Example\Plugin.Pattern.Example\obj\Debug\net6.0\Plugin.Pattern.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Documents\Dev\ByMySelf\Arquitetura\PluginPattern\Exemplo\Plugin.Pattern.Example\Plugin.Pattern.Example\obj\Debug\net6.0\Plugin.Pattern.Example.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Documents\Dev\ByMySelf\Arquitetura\PluginPattern\Exemplo\Plugin.Pattern.Example\Plugin.Pattern.Example\obj\Debug\net6.0\Plugin.Pattern.Example.AssemblyInfo.cs
+C:\Users\Leonardo\Documents\Dev\ByMySelf\Arquitetura\PluginPattern\Exemplo\Plugin.Pattern.Example\Plugin.Pattern.Example\obj\Debug\net6.0\Plugin.Pattern.Example.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\Dev\ByMySelf\Arquitetura\PluginPattern\Exemplo\Plugin.Pattern.Example\Plugin.Pattern.Example\obj\Debug\net6.0\Plugin.Pattern.Example.dll
+C:\Users\Leonardo\Documents\Dev\ByMySelf\Arquitetura\PluginPattern\Exemplo\Plugin.Pattern.Example\Plugin.Pattern.Example\obj\Debug\net6.0\refint\Plugin.Pattern.Example.dll
+C:\Users\Leonardo\Documents\Dev\ByMySelf\Arquitetura\PluginPattern\Exemplo\Plugin.Pattern.Example\Plugin.Pattern.Example\obj\Debug\net6.0\Plugin.Pattern.Example.pdb
+C:\Users\Leonardo\Documents\Dev\ByMySelf\Arquitetura\PluginPattern\Exemplo\Plugin.Pattern.Example\Plugin.Pattern.Example\obj\Debug\net6.0\Plugin.Pattern.Example.genruntimeconfig.cache
+C:\Users\Leonardo\Documents\Dev\ByMySelf\Arquitetura\PluginPattern\Exemplo\Plugin.Pattern.Example\Plugin.Pattern.Example\obj\Debug\net6.0\ref\Plugin.Pattern.Example.dll
